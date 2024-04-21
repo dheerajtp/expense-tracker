@@ -22,6 +22,13 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     padding: 10,
   },
+  accountsInputRow: {
+    backgroundColor: "white",
+    textAlign: "center",
+  },
+  accountsInput: {
+    flex: 1,
+  },
 });
 
 export default styles;
